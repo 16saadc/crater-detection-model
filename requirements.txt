@@ -1,0 +1,19 @@
+numpy >= 1.13.0
+scipy
+sympy
+pandas
+opencv-python
+torch
+tk
+Pillow
+matplotlib
+mpltools
+pytest
+pytest-timeout
+sphinx
+dask
+distributed
+googledrivedownloader
+requests
+yolov5
+scikit-learn
